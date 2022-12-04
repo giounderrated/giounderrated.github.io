@@ -10,7 +10,7 @@ var animation = lottie.loadAnimation({
 
 animation.play();
 
-var myVar = setTimeout(showPage, 1000);
+var myVar = setTimeout(showPage, 3000);
 
 function showPage(){
     animation.stop();
