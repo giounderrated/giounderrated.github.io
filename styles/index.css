@@ -44,6 +44,10 @@ ul {
   color: #435dd2;
 }
 
+.green{
+  color: #25D366;
+}
+
 .center {
   text-align: center;
 }
@@ -136,7 +140,7 @@ h1 {
 }
 
 .services{
-  background-color: #435dd2;
+  background-color: #3a5bee;
   padding: 2em;
 }
 
